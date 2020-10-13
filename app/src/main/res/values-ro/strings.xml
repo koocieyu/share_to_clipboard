@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Distribuie în Clipboard</string>
+    <string name="share_to_clipboard_activity">Clipboard</string>
+    <string name="other">Alt</string>
+    <string name="error_no_data">Nimic de copiat</string>
+    <string name="error_type_not_supported">Tipul de partajare nu este suportat, vă rugăm să raportați dezvoltatorilor.</string>
+    <string name="error_type_not_supported_by_platform">Din cauza limitărilor Android, acest tip de partajare nu poate fi copiat în Clipboard.</string>
+    <string name="copied">Copiat în clipboard</string>
+    <string name="apps_by_tengu">Aplicații realizate de Tengu</string>
+    <string name="about">Despre</string>
+    <string name="about_content">Copiază in clipboard direct din meniul de partajare al Android.
+        \n\nNu mai folosi soluții enervante pentru a face ceva atât de folositor și esențial!
+        \n\n<b>Cum se folosește:</b> Deschide orice aplicație, spre exemplu browser-ul, apasă \"Partajare\", și
+        alege \"Distribuie în Clipboard\". Acum doar navighează spre orice câmp text, ține apăsat, iar în meniul
+        care apare apasă \"Lipire\". Atâta tot!\n\nUnic pentru această aplicație este că suportăm partajarea
+        VCard-urilor (contacte) și plănuim să adăugăm mai multe.
+        \n\nDe asemenea, spre deosebire de multe alte soluții, aceasta nu are niciun bug vizual sau ferestre
+        fantomă, doar apasă partajare pentru a copia din orice aplicație, și lipește oriunde dorești!
+        \n\nDatorită multor colaboratori, aplicația este disponibilă în mai multe limbi.
+        \n\n\nAplicația este complet open source, codul sursă fiind accesibil la:
+        \nhttps://github.com/tengusw/share_to_clipboard
+        \nDacă ești un dezvoltator, contribuțiile sunt bine-venite!
+        \n\nAnunță-ne în legătură cu orice problemă, preferabil prin email (tengu@stosb.com)
+        \n\nPoți de asemenea să susții dezvoltarea folosind următorul link: https://stosb.com/tengu/donate/
+    </string>
+    <string name="remove_launcher">Sterge Launcher-ul</string>
+    <string name="remove_launcher_message">Iconița aplicației va fi ștearsă din lista de aplicații
+        a sistemului.\nPentru a restabili iconița, vă rugăm să dezinstalați și să instalați aplicația.
+        \n* Poate cauza probleme cu unele modele de telefon.
+    </string>
+    <string name="show_link_title">Include titlul linkului</string>
+    <string name="settings">Setări</string>
+
+    <string name="share_chooser_title">Partajează via</string>
+    <string name="notification_channel">General</string>
+    <string name="notification_title">Copiat în clipboard</string>
+    <string name="notification_content">Apasă aici pentru a partaja cu o aplicație diferită.</string>
+    <string name="display_notification_for_share">Afișează o notificare de redistribuire
+    </string>
+</resources>
